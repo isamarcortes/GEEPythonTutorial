@@ -1,2 +1,2 @@
 # GEEPythonTutorial
-Quick GEE tutorial I put together for the systems crew
+Quick GEE tutorial I modified from the geemap tutorials for the systems crew
