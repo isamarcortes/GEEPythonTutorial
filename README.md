@@ -1,2 +1,2 @@
 # GEEPythonTutorial
-Quick GEE tutorial I modified from the geemap tutorials for the systems crew
+Here's a quick tutorial on using Google Earth Engine (GEE) in python using the (geemap)[https://geemap.org/] python library! We will learn how to create a Landsat timeseries gif using a modified version of their tutorial. 
